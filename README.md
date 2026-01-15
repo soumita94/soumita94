@@ -3,52 +3,37 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=35&pause=1000&color=39F3BB&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+profile!;I'm+Soumita+Das" alt="Typing SVG" />
   </div>
 </h1>
-<h3 align="center">AI / ML Engineer | Data Analyst | Comuter Vision</h3>
+<h3 align="center">AI / ML Engineer | Data Analyst | Comuter Vision(At Learning state)</h3>
 
 ---
 
 ## 🚀 About Me
 
-I am an AI-focused developer passionate about **Machine Learning, Deep Learning, and Agentic AI systems**.  
+I am an AI-focused developer passionate about **Machine Learning, and Agentic AI systems**.  
 I primarily work on **Machine learning Fundamentals and Open Source** and prefer building **real-world AI products** over frontend-heavy applications.
 
 ## I enjoy designing:
 
 - 🤖 Multi-Agent AI systems
 - 🧠 ML/DL pipelines
-- 🔗 LLM-powered automation systems
+- 🧩 Algorithmic and analytical thinking
+- 🔍 Solving real-world problems using data
 
 
 ---
-
-## Core Skills
+## 🛠 Tech Stack
 
 <div align="center">
 
-### 🧪 Machine Learning & Data Analysis
+### 🧪 Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-<img src="https://img.shields.io/badge/Supervised & Unsupervised Learning-2563EB?style=for-the-badge&logo=canva&logoColor=white" >
-<img src="https://in.pinterest.com/pin/45669383717968711/" >
-<img src="https://in.pinterest.com/pin/964966657766890425/" >
-<img src="https://in.pinterest.com/pin/219691288058610378/" >
-<img src="https://in.pinterest.com/pin/1072067886297971179/" >
-<img src="https://img.shields.io/badge/NLP & Text Processing -06B6D4?style=for-the-badge&logo=canva&logoColor=black" >
-<img src="https://img.shields.io/badge/Model training, evaluation & optimization-F97316?style=for-the-badge&logo=canva&logoColor=white" >
-
-### 🤖 Generative & Agentic AI
-
-![LLMs](https://img.shields.io/badge/Large--Language--Models(LLMs)-1E293B?style=for-the-badge&logo=lmms&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-475569?style=for-the-badge&logo=langchain&logoColor=green)
-![AI Agents & Memory Systems](https://img.shields.io/badge/AI--Agents--%26--Memory--Systems-0F766E?style=for-the-badge)
-![Vision-Language Models (LLaVA, YOLO)](https://img.shields.io/badge/Vision--Language--Models(LLaVA,YOLO)-0891B2?style=for-the-badge&logo=yolo&logoColor=white)
-![Emotion-aware AI systems](https://img.shields.io/badge/Emotion--aware--A--systems-DB2777?style=for-the-badge&)
-
-### 🛠 Backend & DevOps
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" >
-<img src="https://img.shields.io/badge/Fast API-009688?style=for-the-badge&logo=fastapi&logoColor=white" >
-<img src="https://img.shields.io/badge/Docker & Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" >
-<img src="https://img.shields.io/badge/AWS Deployment-FF9900?style=for-the-badge" >
-<img src="https://img.shields.io/badge/Automation using n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" >
+- Supervised & Unsupervised Learning  
+- Regression & Classification algorithms  
+- Feature engineering & data preprocessing  
+- Model evaluation and performance metrics  
 
 ### 📊 Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -56,56 +41,56 @@ I primarily work on **Machine learning Fundamentals and Open Source** and prefer
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+### 🎨 Frontend (Basic)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+- HTML5  
+- CSS3
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+- Git & GitHub  
+- Kaggle  
+- Google Colab  
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack 
+## 📌 Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,docker,aws,git,github" />
-</p>
+- 📊 **Student Placement Prediction**  
+  Machine learning classification project using academic and skill-based data.
 
-### AI / ML Libraries
-- PyTorch
-- Scikit-learn
-- OpenCV
-- Transformers
-- Llama-cpp
+- 📉 **Customer Churn Prediction**  
+  ML-based system to analyze customer behavior and predict churn risk.
 
-### Automation & Workflow
-- LangChain
-- n8n
-- Web Scraping Pipelines
+- 🤖 **Career Readiness Multi-Agent AI System**  
+  LLM-based multi-agent project focused on career guidance and planning.
 
+- 🔍 **ML Practice Projects**  
+  Hands-on implementations of regression, classification, and data preprocessing techniques.
+
+- 💬 **Early-stage AI Chatbot Experiments**  
+  Small experiments exploring LLM interaction and prompt design.
 ---
 
-## 📌 Projects & Interests
 
-- 🤖 **Voice + Emotion Aware AI Assistant**
-- 📊 **AI-based Equity Research & Report Generation**
-- 🧬 **Skin Condition Analysis using Deep Learning**
-- 🔌 **ESP32 & Edge AI Integrations**
-- 🧠 **Personal AI Agent with Memory & Vision**
+
+## 🌱 Currently Learning
+
+- Core machine learning algorithms in depth  
+- Data preprocessing & feature engineering  
+- Statistics for machine learning  
+- Agentic AI design fundamentals  
+- Open-source contribution workflows  
 
 ---
-
-## 💼 Experience
-
-### 🔹 AI/ML Intern — CodeFlare Labs  
-📍 Remote  
-🗓 **Oct 2025 – Present** (3-Month Internship)
-
-- Building and maintaining **AI-driven automation workflows using n8n**
-- Designing **end-to-end workflows** integrating:
-  - LLM APIs
-  - Webhooks
-  - Databases / Google Sheets
-  - WhatsApp / messaging APIs
-- Working with **Machine Learning & Deep Learning models** for real-world use cases
-- Developing **backend logic and AI agents** using Python and LLM frameworks
-- Gaining hands-on experience in **client-driven requirements and scalable automation systems**
-
 
 ---
 
