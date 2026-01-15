@@ -15,7 +15,7 @@ I primarily work on **Machine learning Fundamentals and Open Source** and prefer
 ## I enjoy designing:
 
 - 🤖 Multi-Agent AI systems
-- 🧠 ML/DL pipelines
+- 🧠 ML pipelines
 - 🧩 Algorithmic and analytical thinking
 - 🔍 Solving real-world problems using data
 
@@ -27,7 +27,7 @@ I primarily work on **Machine learning Fundamentals and Open Source** and prefer
 
 ### 🧪 Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,pytorch" />
 </p>
 
 - Supervised & Unsupervised Learning  
@@ -51,7 +51,7 @@ I primarily work on **Machine learning Fundamentals and Open Source** and prefer
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+ <img src="https://skillicons.dev/icons?i=git,github,kaggle,googlecolab" />
 </p>
 
 - Git & GitHub  
@@ -112,12 +112,12 @@ I primarily work on **Machine learning Fundamentals and Open Source** and prefer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumita94&show_icons=true&theme=radical" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=soumita94&theme=radical&hide_border=true"
+    alt="Soumita's GitHub Streak"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumita94&theme=radical" />
-</p>
 
 ---
 
