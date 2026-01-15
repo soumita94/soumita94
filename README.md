@@ -3,21 +3,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=35&pause=1000&color=39F3BB&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+profile!;I'm+Soumita+Das" alt="Typing SVG" />
   </div>
 </h1>
-<h3 align="center">AI / ML Engineer | Backend & Agentic AI Developer</h3>
+<h3 align="center">AI / ML Engineer | Data Analyst | Comuter Vision</h3>
 
 ---
 
 ## 🚀 About Me
 
 I am an AI-focused developer passionate about **Machine Learning, Deep Learning, and Agentic AI systems**.  
-I primarily work on **backend, automation, and intelligent systems** and prefer building **real-world AI products** over frontend-heavy applications.
+I primarily work on **Machine learning Fundamentals and Open Source** and prefer building **real-world AI products** over frontend-heavy applications.
 
 ## I enjoy designing:
 
-- 🤖 Intelligent AI agents
+- 🤖 Multi-Agent AI systems
 - 🧠 ML/DL pipelines
 - 🔗 LLM-powered automation systems
-- ⚙️ Backend APIs & scalable services
+
 
 ---
 
@@ -25,12 +25,13 @@ I primarily work on **backend, automation, and intelligent systems** and prefer 
 
 <div align="center">
 
-### 🧪 Machine Learning & Deep Learning
+### 🧪 Machine Learning & Data Analysis
 
 <img src="https://img.shields.io/badge/Supervised & Unsupervised Learning-2563EB?style=for-the-badge&logo=canva&logoColor=white" >
-<img src="https://img.shields.io/badge/ANN-0284C7?style=for-the-badge&logo=canva&logoColor=white" >
-<img src="https://img.shields.io/badge/CNN-16A34A?style=for-the-badge&logo=cnn&logoColor=black" >
-<img src="https://img.shields.io/badge/RNN-EA580C?style=for-the-badge&logo=rnn&logoColor=white" >
+<img src="https://in.pinterest.com/pin/45669383717968711/" >
+<img src="https://in.pinterest.com/pin/964966657766890425/" >
+<img src="https://in.pinterest.com/pin/219691288058610378/" >
+<img src="https://in.pinterest.com/pin/1072067886297971179/" >
 <img src="https://img.shields.io/badge/NLP & Text Processing -06B6D4?style=for-the-badge&logo=canva&logoColor=black" >
 <img src="https://img.shields.io/badge/Model training, evaluation & optimization-F97316?style=for-the-badge&logo=canva&logoColor=white" >
 
@@ -111,26 +112,26 @@ I primarily work on **backend, automation, and intelligent systems** and prefer 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/suvam-das-aa1940314" target="_blank">
+  <a href="https://www.linkedin.com/in/soumita-das-27816a36a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://discord.com/users/suvam5525" target="_blank">
+  <a href="https://discord.com/users/devpool_17818" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
-📧 **Email:** professional.suvamdas@gmail.com
+📧 **Email:** dassoumita065@gmail.com
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvam-2005&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soumita94&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvam-2005&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumita94&theme=radical" />
 </p>
 
 ---
